@@ -13,6 +13,7 @@ This project is a machine vision tool developed in **MFC VC++** that detects cir
 - Calculates geometric properties such as:
   - Inner/Outer tangents
   - Radius and Diameter
+  - Distance bet centers
 - Optimized for industrial image inspection
 
 ## 🛠 Technologies Used
