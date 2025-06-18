@@ -5,6 +5,7 @@ This project is a machine vision tool developed in **MFC VC++** that detects cir
 - Outer and inner tangents
 - Circle radius
 - Circle diameter
+- Dist bet Centers
 
 ## 🔧 Features
 
